@@ -1,0 +1,72 @@
+ID	Name	Play Count	Usage	Color Usage
+rouge	Rouge	14	2	Default:5|Toxic:9	
+stcsally	Sally Acorn	1	1	PumpkinPie:1	
+sans	Sans	6	1	Black:6	
+diggle	Diggle	3	1	Black:3	
+carol	Carol	1	1	Default:1	
+dingodiletfb	Dingodile	17	1	Default:16|Cerulean:1	
+gunvolt	Gunvolt	1	1	Mustard:1	
+gongon	GonGon	5	1	Default:5	
+kasaneteto	Kasane Teto	13	2	Default:9|White:4	
+riderssonic	Sonic (Riders)	46	4	Rosy A:1|Default:3|Gold:8|Topaz A:1|Sapphire A:9|Gold A:19|Red:5	
+alolanraichu	Raichu (Alolan)	8	1	Black:8	
+iclyn	Iclyn	6	2	Default:5|Jawz:1	
+bikeshadow	Shadow	3	2	Black:2|Default:1	
+shantae	Shantae	1	1	Default:1	
+pm_mary	Mary	2	1	Thistle:1|Violet:1	
+draco	Draco	1	1	RoughRacer:1	
+derp	The Derp	1	1	Black:1	
+abby	Abby	1	1	Pigeon:1	
+vector	Vector	2	1	Default:2	
+honey	Honey	6	1	Nickel:1|Default:1|Carbon A:4	
+nahida	Nahida	2	1	Default:2	
+gemma	Gemma	1	1	Pigeon:1	
+milla	Milla	8	3	Black:1|Default:7	
+aurelia	Aurelia	46	1	Default:46	
+alpha	Alpha	11	1	Default:11	
+nyamimi	Nyami and Mimi	22	1	Yellow A:15|Default:7	
+sledge	Sledge	3	1	Dream:3	
+asha	Asha	3	1	Default:3	
+aosthscratch	Scratch	1	1	Default:1	
+wonderboy	Wonder Boy	13	2	Pinetree:12|Taffy:1	
+jewel	Jewel	1	1	Default:1	
+bomb	Bomb	1	1	Black:1	
+feveramitie	Amitie	1	1	Ketchup:1	
+hikaru_hoshi	Hikaru Hoshi	6	1	Master A:5|Emerald:1	
+buizel	Buizel	12	2	Default:11|Ketchup:1	
+homersimpson	Homer Simpson	11	1	Default:11	
+freyadra	Freya	1	1	Black:1	
+aosthrobotnik	AoStH Robotnik	13	1	Default:13	
+lanolin	Lanolin	1	1	Default:1	
+heavy	Heavy	2	1	Black:2	
+jet	Jet	9	1	RoughRacer:3|Mushroomy:3|Master A:2|Sepia:1	
+trip	Trip	2	2	Default:2	
+prick	Prick	6	1	Default:6	
+latias	Latias	15	2	Black:13|WildSun:2	
+barry	Barry	2	1	Default:2	
+jirachi	Jirachi	3	1	Black:3	
+jason	Jason	1	1	Violet:1	
+pinecone	PINECONE	2	1	Default:2	
+sebastian_skin	Sebastian	20	1	Default:20	
+bino	Bino	1	1	Sakura:1	
+headdy	Headdy	27	1	Yellow A:4|Default:23	
+flarewf	Flare	1	1	Sakura:1	
+jennyxj9	Jenny Wakeman	1	1	Default:1	
+chuchu	ChuChu	40	1	Red:40	
+harry	Harry	1	1	Fever:1	
+madmewmew	Mad Mew Mew	2	1	Black:2	
+cole_cassidy	Cole Cassidy	1	1	Black:1	
+latios	Latios	2	1	Black:2	
+fleur	Fleur	32	1	Default:32	
+stocking	Stocking Anarchy	2	1	Black:2	
+banjokazooie	Banjo-Kazooie	1	1	Default:1	
+cookie	Cookie	3	1	Black:3	
+laharl	Laharl	2	1	Byzantium:2	
+veph	Veph	20	1	Default:20	
+ray	Ray	1	1	Pastel:1	
+holly	holly	11	2	Default:10|Aquamarine A:1	
+yatterman-2	Yatterman-2	1	1	Default:1	
+ceroba	Ceroba	11	2	Pepper A:1|Red A:2|Default:8	
+yarnyoshi	Yarn Yoshi	1	1	Default:1	
+cacee	Cacee	2	2	Black:1|Default:1	
+shell	Shell	1	1	Default:1	

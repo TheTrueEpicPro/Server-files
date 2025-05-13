@@ -1,0 +1,76 @@
+Internal Name	Map Name	Play Count	Times Skipped	Times Reran
+GACK_PROGRAMSHUTDOWN	Program Shutdown Zone	1	0	0	
+ATL_MC_MEGASLIPNOT	Mega Slip Not Zone	1	0	0	
+RR_POPCORNWORKSHOP	Popcorn Workshop Zone	1	0	0	
+RR_SEALEDSTARBALCONIESGP	Balconies	1	0	0	
+DR_3CD	3 Color Drive	1	0	0	
+WS1_LAGOONCASTLE	Lagoon Castle Zone	1	0	0	
+RR_SPRINGYARD	Spring Yard Zone	1	0	0	
+PZZ_FABRIKENZONE	Fabrikenzone	1	0	0	
+PP_BLITZBEACH	Blitz Beach Zone	1	0	0	
+PP_PORTAURORA	Port Aurora Zone	1	0	0	
+RR_HEROCHAOGARDEN	Hero Chao Garden	1	0	0	
+EPIC_MEGAAQUAPARADISEZONE	Mega Aqua Paradise Zone	2	0	0	
+RR_ISOLATEDISLAND	Isolated Island Zone	1	0	0	
+PP_ROBOTNIKRACEWAY	Robotnik Raceway Zone	1	0	0	
+RR_SEALEDSTARROOFTOPSGP	Rooftops	1	0	0	
+AC_BIGFOREST	Virtua Racing Big Forest	1	0	0	
+TP_SEALEDCIRCUIT	Sealed Circuit	1	0	0	
+ARC_FRUTIGERAEROPOLIS	Frutiger Aeropolis	1	0	0	
+PP_COCONUTMALL	Coconut Mall	0	0	0	
+AC_DUALANGEL	Dual Angel Jam	2	0	0	
+RR_SEALEDSTARSPIKESGP	Spikes	1	0	0	
+RR_CRIMSONCORE	Crimson Core Zone	2	0	0	
+RUB_FROSTYCIRCUIT	Frosty Circuit	1	0	0	
+DR_SANCTUM	Mountaintop Rally	3	0	0	
+PP_FESTIVALNIGHT	Festival Night Zone	1	0	0	
+AC_SNOWDUSTVALLEYCLASSIC	Snowdust Valley	1	0	0	
+SP_JADEGARTEN	Conduit Garden Zone	1	0	0	
+PP_AZUREGARDEN	Azure Garden Zone	1	0	0	
+GTK_GREENHILLCLIFFS	Green Hill Cliffs	1	0	0	
+SP_LAUNCHBASE	Launch Base DX	1	0	0	
+CV_VINTAGETERRACE	Vintage Terrace Zone	1	0	0	
+ABR_HOSPITAL	Bootleg Pyramide Zone	1	0	0	
+RR_SEALEDSTARVILLAGP	Villa	1	0	0	
+KP_SUNSETARCHIPELAGO	Sunset Archipelago Zone	1	0	0	
+RR_FINALFALL	Final Fall Zone	1	0	0	
+RR_REGALRUIN	Regal Ruin	1	0	0	
+CRVD_HIGHTOP	High Top Zone	1	0	0	
+KNC_DEMOCRACY	Calypso City	1	0	0	
+PZZ_NOISETVSTUDIO	Noise TV Studio	1	0	0	
+RR_AURORAATOLL	Aurora Atoll Zone	1	0	0	
+HYOF_MEGANARAPARK	Mega Nara Park	0	0	0	
+PP_CLOUDCASCADE	Cloud Cascade Zone	1	0	0	
+RR_ROASTEDRUINS	Roasted Ruins Zone	1	0	0	
+RLQ_CENTRALCITY	Central City	1	0	0	
+RR_EMERALDHILL	Emerald Hill Zone	1	0	0	
+RR_GIGAPOLIS	Gigapolis Zone	1	0	0	
+RR_MIRAGESALOON	Mirage Saloon Zone	1	0	0	
+RR_OPERATORSOVERSPACE	Operator's Overspace	1	0	0	
+YTC_CHARTREUSE_WOODS	Chartreuse Woods Zone	1	0	0	
+PP_DKMOUNTAIN	DK Mountain	1	0	0	
+RR_NOVASHORE	Nova Shore Zone	1	0	0	
+RR_CHAOSTUBE	Chaos Chute Zone	1	0	0	
+HTT_STUDIOPOLIS	Studiopolis Zone 1	1	0	0	
+BG_THREESEVENSPEEDWAY	Three Seven Speedway	1	0	0	
+RR_CITYESCAPE	City Escape	1	0	0	
+RUB_DEATHCHAMBERR	Death Chamber	1	0	0	
+GTK_DENDRITICDERELICTION	Dendritic Dereliction	1	0	0	
+FT_HOTCRATER	Hot Crater Zone	1	0	0	
+RR_CADILLACCANYONCLASSIC	Cadillac Canyon Classic	1	0	0	
+RR_ADVENTANGEL	Advent Angel Zone	1	0	0	
+PP_SUS	Rampart Ruins Zone	1	0	0	
+AC_STARDRIFTERCOURSE	Star Drifter Course	2	0	0	
+DR_NGHZ	Neo Green Hill Zone	1	0	0	
+RR_CLOUDTOPDIMENSION	Cloudtop Dimension 4	1	0	0	
+ATL_MC_MEGATUBELECTRIC	Mega Tubelectric	1	0	0	
+DR_FARBANTI	Shattered Seas	1	0	0	
+RUB_SOLARSTROLLER	Solar Stroller	2	0	0	
+PP_SIMPLECIRCUIT	Simple Circuit Zone	1	0	0	
+RUB_WISHINGWONDERS	Wishing Wonders	1	0	0	
+RR_PRESSGARDEN	Press Garden Zone	1	0	0	
+MAGI_SPEEDSTADIUM	Speed Stadium Zone	1	0	0	
+HAYA_PARTYPHASETAKE2	Party Phase Zone	1	0	0	
+RUB_PLEASURECASTLE	Pleasure Castle	1	0	0	
+ATL_MC_MEGAOCEANBASE	Mega Ocean Base Zone	1	0	0	
+CUB_STARMINESPEEDWAY	Starmine Speedway	1	0	0	

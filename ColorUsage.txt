@@ -1,0 +1,57 @@
+Name	Play Count	Usage	Skin Usage	Follower Usage
+Aquamarine A	1	1	holly:1	None	
+Silver	1	1	lanolin:1	None	
+Sapphire	3	1	riderssonic:3	None	
+Mint	12	2	carol:1|alpha:11	None	
+Sepia	1	1	jet:1	None	
+Gold	14	1	riderssonic:8|prick:6	None	
+Toxic	9	1	rouge:9	None	
+Ketchup	4	2	trip:2|feveramitie:1|buizel:1	None	
+WildSun	2	1	latias:2	None	
+Rosy A	1	1	riderssonic:1	None	
+Mushroomy	3	1	jet:3	None	
+Raspberry	17	3	ceroba:8|kasaneteto:9	None	
+Taffy	21	1	veph:20|wonderboy:1	None	
+Dream	3	1	sledge:3	None	
+Blossom	1	1	yatterman-2:1	None	
+Midnight	7	1	nyamimi:7	None	
+Orange	11	1	buizel:11	None	
+Leather	5	1	gongon:5	None	
+Pinetree	12	1	wonderboy:12	None	
+Green	5	2	vector:2|asha:3	None	
+Sapphire A	9	1	riderssonic:9	None	
+Emerald	3	3	shell:1|cacee:1|hikaru_hoshi:1	None	
+Fever	1	1	harry:1	None	
+Gold A	19	1	riderssonic:19	None	
+Mustard	1	1	gunvolt:1	None	
+Caramel	16	1	dingodiletfb:16	None	
+Yellow A	19	1	nyamimi:15|headdy:4	None	
+Cerulean	1	1	dingodiletfb:1	None	
+Master A	7	2	jet:2|hikaru_hoshi:5	None	
+Byzantium	2	1	laharl:2	None	
+Thistle	1	1	pm_mary:1	None	
+Purple	1	1	shantae:1	None	
+Dawn	7	2	milla:7	None	
+Nickel	1	1	honey:1	None	
+CandyFloss	37	2	fleur:32|iclyn:5	None	
+Pastel	1	1	ray:1	None	
+RoughRacer	4	2	jet:3|draco:1	None	
+Rosewood	49	3	aurelia:46|banjokazooie:1|pinecone:2	None	
+Maroon	2	1	bikeshadow:1|honey:1	None	
+Tangerine	23	1	headdy:23	None	
+Pepper A	1	1	ceroba:1	None	
+Sakura	2	1	flarewf:1|bino:1	None	
+PumpkinPie	1	1	stcsally:1	None	
+Violet	2	1	jason:1|pm_mary:1	None	
+Jawz	12	3	jewel:1|holly:10|iclyn:1	None	
+Red A	2	1	ceroba:2	None	
+Turquoise	1	1	jennyxj9:1	None	
+Topaz A	1	1	riderssonic:1	None	
+Jet	20	1	sebastian_skin:20	None	
+Pigeon	3	2	aosthscratch:1|gemma:1|abby:1	None	
+Black	52	2	latias:13|stocking:2|madmewmew:2|bomb:1|jirachi:3|cole_cassidy:1|diggle:3|freyadra:1|milla:1|cookie:3|heavy:2|alolanraichu:8|latios:2|bikeshadow:2|sans:6|cacee:1|derp:1	None	
+Carbon A	4	1	honey:4	None	
+Red	60	4	aosthrobotnik:13|barry:2|chuchu:40|riderssonic:5	None	
+Yellow	11	1	homersimpson:11	None	
+Pistachio	3	1	nahida:2|yarnyoshi:1	None	
+White	9	2	kasaneteto:4|rouge:5	None	
