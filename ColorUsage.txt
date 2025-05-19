@@ -1,57 +1,89 @@
 Name	Play Count	Usage	Skin Usage	Follower Usage
 Aquamarine A	1	1	holly:1	None	
-Silver	1	1	lanolin:1	None	
-Sapphire	3	1	riderssonic:3	None	
-Mint	12	2	carol:1|alpha:11	None	
-Sepia	1	1	jet:1	None	
-Gold	14	1	riderssonic:8|prick:6	None	
-Toxic	9	1	rouge:9	None	
-Ketchup	4	2	trip:2|feveramitie:1|buizel:1	None	
+Sapphire	4	2	riderssonic:4	None	
+Ruby	3	1	kasaneteto:3	None	
+Cerulean	1	1	dingodiletfb:1	None	
+Toxic	25	1	rouge:25	None	
+Moonset	18	1	nahida:18	None	
 WildSun	2	1	latias:2	None	
 Rosy A	1	1	riderssonic:1	None	
-Mushroomy	3	1	jet:3	None	
-Raspberry	17	3	ceroba:8|kasaneteto:9	None	
-Taffy	21	1	veph:20|wonderboy:1	None	
-Dream	3	1	sledge:3	None	
-Blossom	1	1	yatterman-2:1	None	
-Midnight	7	1	nyamimi:7	None	
-Orange	11	1	buizel:11	None	
-Leather	5	1	gongon:5	None	
-Pinetree	12	1	wonderboy:12	None	
-Green	5	2	vector:2|asha:3	None	
-Sapphire A	9	1	riderssonic:9	None	
-Emerald	3	3	shell:1|cacee:1|hikaru_hoshi:1	None	
-Fever	1	1	harry:1	None	
-Gold A	19	1	riderssonic:19	None	
-Mustard	1	1	gunvolt:1	None	
+Raspberry	18	3	ceroba:9|kasaneteto:9	None	
+Taffy	45	1	veph:44|wonderboy:1	None	
+Cookie	29	1	sevii:29	None	
+Sunset A	1	1	trip:1	None	
+Plague	7	2	riderssonic:2|kasaneteto:2|hikaru_hoshi:3	None	
+Green	7	3	zeana:2|asha:3|vector:2	None	
+Emerald	3	3	hikaru_hoshi:1|cacee:1|shell:1	None	
 Caramel	16	1	dingodiletfb:16	None	
-Yellow A	19	1	nyamimi:15|headdy:4	None	
-Cerulean	1	1	dingodiletfb:1	None	
-Master A	7	2	jet:2|hikaru_hoshi:5	None	
-Byzantium	2	1	laharl:2	None	
-Thistle	1	1	pm_mary:1	None	
-Purple	1	1	shantae:1	None	
-Dawn	7	2	milla:7	None	
+Yellow A	19	1	headdy:4|nyamimi:15	None	
+Scarlet	22	1	honey:22	None	
+Thistle	2	2	blaze:1|pm_mary:1	None	
 Nickel	1	1	honey:1	None	
-CandyFloss	37	2	fleur:32|iclyn:5	None	
-Pastel	1	1	ray:1	None	
+CandyFloss	49	2	iclyn:5|fleur:44	None	
 RoughRacer	4	2	jet:3|draco:1	None	
-Rosewood	49	3	aurelia:46|banjokazooie:1|pinecone:2	None	
+Rosewood	87	4	aurelia:68|banjokazooie:1|pinecone:2|tails:16	None	
+Gold A	19	1	riderssonic:19	None	
+Pastel	1	1	ray:1	None	
+Foundation A	7	1	zazz:7	None	
+Sakura	15	2	flarewf:1|bino:1|kasaneteto:13	None	
+Lime	16	1	veph:16	None	
+Camouflage	2	1	alolanraichu:2	None	
+Red A	27	2	ceroba:2|lanolin:25	None	
+Turquoise	14	3	jennyxj9:1|smwyoshi:3|narlok:1|astrobot:1|plok:1|holly:2|madmewmew:2|fav:1|cacee:1|draco:1	None	
+Violet	2	1	pm_mary:1|jason:1	None	
+Pinetree	12	1	wonderboy:12	None	
+Sapphire A	10	2	riderssonic:10	None	
+Mustard	1	1	gunvolt:1	None	
+Pistachio	8	2	yarnyoshi:1|nahida:7	None	
+Navy	2	1	nyamimi:2	None	
+Dream	3	1	sledge:3	None	
+Mint	12	2	carol:1|alpha:11	None	
+Sepia	16	2	jet:1|ep_flare:15	None	
+Gold	14	1	prick:6|riderssonic:8	None	
+Ketchup	4	2	trip:2|feveramitie:1|buizel:1	None	
+Slate	1	1	sage:1	None	
+Dusk	96	3	flarewf:71|hexmaniac:3|cluckoid:22	None	
+Mushroomy	3	1	jet:3	None	
+Blue	8	2	itembox:8	None	
+Magenta	1	1	tasquemanager:1	None	
 Maroon	2	1	bikeshadow:1|honey:1	None	
+Sunslam	1	1	fleur:1	None	
+Royal	1	1	veph:1	None	
+Garden	3	1	homersimpson:3	None	
 Tangerine	23	1	headdy:23	None	
-Pepper A	1	1	ceroba:1	None	
-Sakura	2	1	flarewf:1|bino:1	None	
+Steel	4	1	laharl:4	None	
+Cream	51	1	dracelia:51	None	
+Lavender A	3	1	caterkiller:3	None	
+Teal	11	1	tails:5|smwyoshi:6	None	
 PumpkinPie	1	1	stcsally:1	None	
-Violet	2	1	jason:1|pm_mary:1	None	
-Jawz	12	3	jewel:1|holly:10|iclyn:1	None	
-Red A	2	1	ceroba:2	None	
-Turquoise	1	1	jennyxj9:1	None	
+Peach	9	1	sakura:9	None	
+Cherry A	1	1	veph:1	None	
+Yogurt A	4	1	trip:4	None	
+Master A	14	2	jet:2|hikaru_hoshi:12	None	
+Lilac	14	2	tasquemanager:9|latias:5	None	
+Skunk	6	3	thebrickster:5|veph:1	None	
+Purple	7	3	shantae:3|kou:4	None	
+Dawn	23	3	milla:7|amity:16	None	
+Emerald A	7	1	hikaru_hoshi:7	None	
+Silver	54	4	huesitos:20|lanolin:16|heavymagician:18	None	
+Blossom	1	1	yatterman-2:1	None	
+Brown	1	1	uprisingpit:1	None	
+Fever	1	1	harry:1	None	
+Byzantium	2	1	laharl:2	None	
+Red	89	5	aosthrobotnik:13|riderssonic:5|chuchu:66|papyrus:1|barry:4	None	
+Pepper A	1	1	ceroba:1	None	
+Peridot A	17	1	nyamimi:17	None	
+Copper	8	1	kou:1|furless:1|sledge:6	None	
+Midnight	18	3	orville:1|geno:3|unclegrandpa:3|nyamimi:7|shovelknight:4	None	
+Jawz	57	4	riderssonic:8|holly:45|jewel:1|latias:2|iclyn:1	None	
+Fancy A	50	2	trip:46|honey:4	None	
+Orange	24	2	saicha:13|buizel:11	None	
 Topaz A	1	1	riderssonic:1	None	
-Jet	20	1	sebastian_skin:20	None	
-Pigeon	3	2	aosthscratch:1|gemma:1|abby:1	None	
-Black	52	2	latias:13|stocking:2|madmewmew:2|bomb:1|jirachi:3|cole_cassidy:1|diggle:3|freyadra:1|milla:1|cookie:3|heavy:2|alolanraichu:8|latios:2|bikeshadow:2|sans:6|cacee:1|derp:1	None	
+Leather	5	1	gongon:5	None	
+Pigeon	10	3	aosthscratch:1|gemma:1|mail:7|abby:1	None	
 Carbon A	4	1	honey:4	None	
-Red	60	4	aosthrobotnik:13|barry:2|chuchu:40|riderssonic:5	None	
+Black	123	5	axelgear:9|latias:34|stocking:9|sans:6|bomb:1|jirachi:3|derp:1|diggle:3|freyadra:1|milla:1|lanolin:6|cookie:26|heavy:2|ray:1|amy:4|alolanraichu:8|cole_cassidy:1|bikeshadow:2|madmewmew:2|cacee:1|latios:2	None	
+Jet	25	2	blakethetamaraw:1|sebastian_skin:24	None	
 Yellow	11	1	homersimpson:11	None	
-Pistachio	3	1	nahida:2|yarnyoshi:1	None	
-White	9	2	kasaneteto:4|rouge:5	None	
+Fuchsia	5	1	shahra:5	None	
+White	15	3	rouge:5|kasaneteto:4|cream:6	None	
