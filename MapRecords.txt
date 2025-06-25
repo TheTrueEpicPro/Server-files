@@ -11,32 +11,32 @@ GG_MAGMAQUARRY	Magma Quarry Zone	1	0	0
 RUB_STORAGESPUTTER	Storage Sputter	1	0	0	
 GACK_STEREOEXPLOSION	Stereo Explosion Zone	1	0	0	
 RR_SPRINGYARD	Spring Yard Zone	1	0	0	
-HX_TURTLETROPICS	Turtle Tropics Alpha	2	0	0	
+HX_TURTLETROPICS	Turtle Tropics Alpha	3	0	0	
 PP_BLITZBEACH	Blitz Beach Zone	2	0	1	
 RR_ICEPARADISE	Ice Paradise Zone	1	0	0	
 RR_SKYBABYLON	Sky Babylon Zone	1	0	0	
 CAS_MEGAFRUTIGER	Mega Frutiger Aeropolis	1	0	0	
 RR_HANAGUMIHALL	Hanagumi Hall Zone	2	0	0	
-ATL_MC_MEGACASINOPARADISE	Mega Casino Paradise Zone	2	0	0	
+RR_WORLD1MAP	World 1 Map	1	0	0	
 TP_SEALEDVAULT	Sealed Vault	1	0	0	
 RR_AERIALHIGHLANDS	Aerial Highlands Zone	1	0	0	
 RR_ABYSSGARDEN	Abyss Garden Zone	1	0	0	
-RR_TESTTRACK	Test Track Zone	3	0	0	
+RR_LAKEMARGORITE	Lake Margorite Zone	1	0	0	
 KP_JADEGARDEN2	Jade Garden Zone 2	1	0	0	
 PP_COCONUTMALL	Coconut Mall	2	0	0	
 AC_DUALANGEL	Dual Angel Jam	2	0	0	
 DR_BURNINGFROST	Burning Frost Zone	1	0	0	
 RR_GREENTRIANGLE	Green Triangle Zone	1	0	0	
-RR_CARNIVALNIGHT	Carnival Night Zone	1	0	0	
+PP_CLOUDCASCADE	Cloud Cascade Zone	6	0	0	
 EPIC_ANTESTATIONZONE	Ante Station Zone	2	0	0	
 SP_FOILAGEFURN	High Top Incursion	1	0	0	
 RR_FROZENPRODUCTION	Frozen Production Zone	1	0	0	
-RR_765STADIUM	765 Stadium Zone	3	0	0	
-RR_UMBRELLARUSHWINDS	Umbrella Rushwinds Zone	1	0	0	
-RR_ROBOTNIKCOASTER	Robotnik Coaster Zone	2	6	0	
+RR_765STADIUM	765 Stadium Zone	4	0	0	
+ATL_MC_MEGACASINONIGHT	Mega Casino Night Zone	2	0	0	
+RR_ROBOTNIKCOASTER	Robotnik Coaster Zone	2	8	0	
 GTK_MAPLEVALLEY	Maple Valley	1	0	0	
 RR_SUNDAEDRIVE	Sundae Drive Zone	2	0	0	
-AC_BACKROOMVELOCITY	Backroom Velocity	1	0	0	
+RR_MYSTERYGATE	Mystery Gate Zone	1	0	0	
 SP_LAUNCHBASE	Launch Base DX	1	0	0	
 RR_ADVENTANGEL	Advent Angel Zone	2	0	0	
 ABR_HOSPITAL	Bootleg Pyramide Zone	1	0	0	
@@ -45,14 +45,14 @@ RR_HYDROPLANT	Hydro Plant Zone	1	0	0
 TP_MEGA_HAUNTEDHEIGHTS	MEGA Haunted Heights Zone	3	0	0	
 CUB_SPIRALHILL	Spiral Hill Circuit	2	0	0	
 ATL_MC_MEGAPRESSGARDEN	Mega Press Garden Zone	1	0	0	
-ACHII_MOONLITSENTINEL	Moonlit Sentinel Zone	1	0	0	
-PP_LUIGIHATESWAYPOINTS	Luigi Circuit	9	0	0	
+ACHII_MOONLITSENTINEL	Moonlit Sentinel Zone	2	0	0	
+TP_GBALUIGICIRCUIT	GBA Luigi Circuit	1	0	0	
 RR_DARKVILECASTLE1	Darkvile Castle Zone 1	1	0	0	
 CSD_CYCLOHEXPANE	Cyclohexpane Zone	1	0	0	
-ABR_THOUSANDMARCH	Bootleg War Zone	1	0	0	
+FT_HOTCRATER	Hot Crater Zone	3	0	0	
 RR_GIGAPOLIS	Gigapolis Zone	2	0	0	
 RR_HYDROCITY	Hydro City Zone	3	0	0	
-DR_FARBANTI	Shattered Seas	2	0	0	
+DR_FARBANTI	Shattered Seas	3	0	0	
 CUB_PSCARNIVAL	PlayStation Carnival	1	0	0	
 RR_OPERATORSOVERSPACE	Operator's Overspace	1	0	0	
 BIGO_MIRAGEROAD1	Mirage Road 1	3	0	0	
@@ -112,10 +112,11 @@ TP_MEGA_NULLSPACE	MEGA Null Space	2	0	0
 RR_CADILLACCANYONCLASSIC	Cadillac Canyon Classic	2	2	0	
 RR_MEGASANDOPOLIS	Mega Sandopolis Zone	2	0	0	
 AC_SUNSETSLALOM	Sunset Slalom Zone	1	0	0	
+GTK_SRCFOREST	SRC Forest	1	0	0	
 RR_CLOUDTOPDIMENSION	Cloudtop Dimension 4	1	0	0	
 EPIC_AQUAPARADISEZONE	Aqua Paradise Zone	1	0	0	
 RUB_SOLARSTROLLER	Solar Stroller	3	0	0	
-RR_MEGASCRAPBRAIN	Mega Scrap Brain Zone	1	0	0	
+RR_MEGASCRAPBRAIN	Mega Scrap Brain Zone	2	0	0	
 TP_MEGA_AURORAHILL	MEGA Aurora Hill Zone	2	0	0	
 RR_SEALEDSTARTOWERSGP	Towers	2	0	0	
 RR_SCARLETGARDENS	Scarlet Gardens Zone	2	0	0	
@@ -124,48 +125,50 @@ ATL_MC_MEGASLIPNOT	Mega Slip Not Zone	2	0	0
 RUB_EGGQUARTERS	Egg Quarters	2	0	0	
 RR_POPCORNWORKSHOP	Popcorn Workshop Zone	2	0	0	
 AC_REDRAGEHIGHWAY	Red Rage Highway	1	0	0	
-BIGO_PARADISEHILL	Paradise Hill Zone	1	0	0	
+BIGO_PARADISEHILL	Paradise Hill Zone	2	0	0	
 RR_DEATHEGG	Death Egg Zone	2	0	0	
 RR_AZURELAKE	Azure Lake Zone	2	0	0	
-FT_DEATHRUINS	Death Ruins	1	0	0	
+FT_DEATHRUINS	Death Ruins	2	0	0	
 RR_AQUATUNNEL	Aqua Tunnel	3	1	1	
 RR_SKYSANCTUARY	Sky Sanctuary Zone	1	0	0	
 RR_RUMBLERIDGE	Rumble Ridge Zone	1	0	0	
+ARC_SATURNSTARWAY	Saturn Starway	1	0	0	
 RR_ANGELISLAND	Angel Island Zone	1	0	0	
 PZZ_FABRIKENZONE	Fabrikenzone	3	0	0	
 RR_SEALEDSTARATLANTISGP	Atlantis	1	0	0	
 RR_BLIZZARDPEAKSCLASSIC	Blizzard Peaks Classic	2	0	0	
 GTK_BENTTWIGRACEWAY	Bent Twig Raceway	1	0	0	
 RR_HEROCHAOGARDEN	Hero Chao Garden	1	0	0	
-KP_DAWNSTARGARDEN	Dawnstar Garden Zone	1	0	0	
+HTT_FLYINGBATTERY	Flying Battery Zone 1	3	0	0	
 EPIC_MEGAAQUAPARADISEZONE	Mega Aqua Paradise Zone	2	0	0	
 RR_THUNDERPISTON	Thunder Piston Zone	1	0	0	
 RR_TOYKINGDOM	Toy Kingdom Zone	1	0	0	
 RR_COASTALTEMPLE	Coastal Temple Zone	1	0	0	
 TP_SEALEDCIRCUIT	Sealed Circuit	2	0	0	
 RR_EMERALDCOAST	Emerald Coast	3	0	0	
+RR_SEALEDSTARCOURTYARDGP	Courtyard	1	0	0	
 PP_DKMOUNTAIN	DK Mountain	7	2	0	
-RR_BLIZZARDPEAKS	Blizzard Peaks Zone	1	0	0	
+RR_BLIZZARDPEAKS	Blizzard Peaks Zone	2	0	0	
 GTK_OCEANWIND	Ocean Wind	1	0	0	
-RR_HAUNTEDSHIP	Haunted Ship	1	0	0	
+RR_HAUNTEDSHIP	Haunted Ship	2	0	0	
 RR_WEISSWATERWAY	Weiss Waterway Zone	3	0	0	
 AC_SNOWDUSTVALLEYCLASSIC	Snowdust Valley	1	0	0	
-RR_BLUEMOUNTAIN2	Blue Mountain Zone 2	2	0	0	
+RR_BLUEMOUNTAIN2	Blue Mountain Zone 2	3	0	0	
 PP_SEASTADIUM	Sea Stadium Zone	2	0	0	
 CV_VINTAGETERRACE	Vintage Terrace Zone	1	0	0	
 RR_GRAVTECHDIMENSION	Gravtech Dimension 5	0	1	0	
-CERVID_HALLWAYS	Hallways Zone	0	1	0	
-PP_VVDATABASER	Void Vault 1 Database	2	0	0	
+KP_SUNSETARCHIPELAGO	Sunset Archipelago Zone	1	0	0	
+PP_VVDATABASER	Void Vault 1 Database	3	0	0	
 RR_REGALRUIN	Regal Ruin	1	0	0	
 RR_SAVANNAHCITADEL	Savannah Citadel	3	0	0	
 RR_CHAOSSERAPH	Chaos Seraph Zone	1	0	0	
 RR_ROASTEDRUINS	Roasted Ruins Zone	4	1	0	
-RR_MELTYMANOR	Melty Manor Zone	1	0	0	
+RR_SEALEDSTARROULETTEGP	Roulette	2	0	0	
 HTT_STUDIOPOLIS	Studiopolis Zone 1	2	0	0	
 IP_SHIVERINGNIGHT	Shivering Night Zone	1	0	0	
 SP_LUNARSHRINE	Lunar Shrine Zone	1	0	0	
 RR_BLUEMOUNTAIN1	Blue Mountain Zone 1	1	0	0	
-RR_HILLTOP	Hill Top Zone	2	0	0	
+RR_HILLTOP	Hill Top Zone	3	0	0	
 PP_ARIDECLIPSE	Arid Eclipse Zone	5	2	1	
 RR_SKYSCRAPERLEAPS	Skyscraper Leaps Zone	1	0	0	
 DIG_SENSSPEEDWAY	Sen's Fortress	2	0	0	
@@ -175,116 +178,123 @@ AC_POLYCHROMEPOLYGONCLASSIC	Polychrome Polygon Zone	2	0	0
 DR_CERVIDMAPAPHEXTWINPENIS	Raging Temple	1	0	0	
 GTK_SRCDESERT	SRC Desert	2	0	0	
 MAGI_SPEEDSTADIUM	Speed Stadium Zone	1	0	0	
-GACK_PROGRAMSHUTDOWN	Program Shutdown Zone	2	0	0	
+RR_PICOPARK	Pico Park Zone	2	0	0	
+RR_SEALEDSTARGALLERYGP	Gallery	1	0	0	
 BIGO_SEASIDEHILL	Seaside Hill	3	0	0	
 TP_SUNSETWILDS	Arid Sunset Zone	2	0	0	
+PP_PORTAURORA	Port Aurora Zone	2	0	0	
 RR_MYSTICCAVE	Mystic Cave Zone	2	0	0	
+DR_GALF	Galf Legacy	1	0	0	
 RR_SEALEDSTARBALCONIESGP	Balconies	1	0	0	
+SUPERMETAL_BASICBOUNCECLASSIC	Basic Bounce Classic	1	0	0	
+FP1_LUMINIUM	Luminium Sphere	1	0	0	
 RR_SILVERCLOUDISLAND	SilverCloud Island	2	0	0	
 RR_CYANBELLTOWER	Cyan Belltower Zone	1	0	0	
-RUB_AGARIABOTANICA	Agaria Botanica	1	0	0	
-ABS_PRESSGARDEN2	Press Garden Zone 2	1	0	0	
-HTT_FLYINGBATTERY	Flying Battery Zone 1	3	0	0	
-LOG_CHEMCHATEAU	Chemical Chateau Zone	1	0	0	
-RR_MEGAAQUALAKE	Mega Aqua Lake Zone	0	1	0	
-BG_THREESEVENSPEEDWAY	Three Seven Speedway	3	0	0	
+RR_ZONEDCITY	Zoned City	1	0	0	
+PP_GREATGALLEON	Great Galleon Zone	1	0	0	
+HTT_CHEMICALPLANT	Chemical Plant Zone 2	1	0	0	
 DIG_BOTANICBASE	Botanic Base Zone	2	0	0	
 AC_BIGFOREST	Virtua Racing Big Forest	2	0	0	
-RR_LEAFSTORM	Leaf Storm Zone	1	0	0	
 ATL_MC_TSUAREA3	Mega Tsu Level 3	1	0	0	
-STAPY_SUBMERGEDMARINA	Submerged Marina Zone	1	0	0	
-KP_JADEGARDEN1	Jade Garden Zone 1	1	0	0	
-RR_ZONEDCITY	Zoned City	1	0	0	
-RR_LAUNCHBASECLASSIC	Launch Base Classic	1	0	0	
-RR_AZUREAXIOM	Azure Axiom Zone	3	0	0	
-KP_OKASHIOVERPASS	Okashi Overpass Zone	1	0	0	
-PP_ROBOTNIKRACEWAY	Robotnik Raceway Zone	4	0	0	
-RR_SEALEDSTARROOFTOPSGP	Rooftops	3	0	0	
-SBS_CIRCUITCENTRAL	Circuit Central	1	0	0	
+RR_TAILSLAB	Tails' Lab	1	0	0	
+BG_THREESEVENSPEEDWAY	Three Seven Speedway	3	0	0	
 RUB_PLEASURECASTLE	Pleasure Castle	3	0	0	
-YTC_BOULDERSTONEALPINES	Boulderstone Alpines Zone	2	0	0	
-HTT_POWERPLANT	Power Plant Zone	1	0	0	
-RR_SONICSPEEDWAY	Sonic Speedway Zone	2	0	0	
-RR_LOSTCOLONY	Lost Colony	1	0	0	
+CRVD_HIGHTOP	High Top Zone	2	0	0	
 RR_DAYTONASPEEDWAY	Daytona Speedway Zone	2	0	0	
-RR_AUTUMNRING	Autumn Ring Zone	1	0	0	
-FT_HOTCRATER	Hot Crater Zone	3	0	0	
-PZZ_NOISETVSTUDIO	Noise TV Studio	2	0	0	
-RR_SEALEDSTARROULETTEGP	Roulette	2	0	0	
-ARC_FRUTIGERAEROPOLIS	Frutiger Aeropolis	4	0	0	
-RR_DIMENSIONDISASTER	Dimension Disaster Zone	2	0	0	
-RR_HIDDENPALACE	Hidden Palace Zone	3	0	0	
-RR_PICOPARK	Pico Park Zone	2	0	0	
-DIG_LOVELYLAB	Lovely Lab Zone	1	0	0	
-PP_SIMPLECIRCUIT	Simple Circuit Zone	3	0	0	
-RR_QUARTZQUADRANT	Quartz Quadrant Zone	2	0	0	
-RR_GUSTPLANET	Gust Planet Zone	1	0	0	
-RR_TRAPTOWER	Trap Tower	1	0	0	
-SUPERMETAL_STARSLALOM	Star Slalom	1	0	0	
-DIG_BURNINGBONE	Burning Bone Zone	2	0	0	
+RR_FINALFALL	Final Fall Zone	2	0	0	
+KP_OKASHIOVERPASS	Okashi Overpass Zone	1	0	0	
+SBS_CIRCUITCENTRAL	Circuit Central	1	0	0	
 GTK_ACTIONGIRLZHIGH	Action Girlz High	2	0	0	
+RR_LAUNCHBASECLASSIC	Launch Base Classic	1	0	0	
+STAPY_SUBMERGEDMARINA	Submerged Marina Zone	1	0	0	
+RR_HIDDENPALACE	Hidden Palace Zone	3	0	0	
+PP_ROBOTNIKRACEWAY	Robotnik Raceway Zone	5	0	0	
+RR_SEALEDSTARROOFTOPSGP	Rooftops	3	0	0	
+RR_PALMTREEPANIC	Palmtree Panic Zone	1	0	0	
+LOG_CHEMCHATEAU	Chemical Chateau Zone	1	0	0	
+PP_SIMPLECIRCUIT	Simple Circuit Zone	3	0	0	
+HTT_POWERPLANT	Power Plant Zone	1	0	0	
+RR_GUSTPLANET	Gust Planet Zone	1	0	0	
+RR_LOSTCOLONY	Lost Colony	1	0	0	
+ABR_THOUSANDMARCH	Bootleg War Zone	1	0	0	
+RR_AZUREAXIOM	Azure Axiom Zone	3	0	0	
+PP_LUIGIHATESWAYPOINTS	Luigi Circuit	9	0	0	
 RUB_FROSTYCIRCUIT	Frosty Circuit	2	0	0	
-PP_BANSHEEBOARDWALK	Banshee Boardwalk	3	0	0	
+ABS_PRESSGARDEN2	Press Garden Zone 2	1	0	0	
+ARC_FRUTIGERAEROPOLIS	Frutiger Aeropolis	5	0	0	
+RR_MELTYMANOR	Melty Manor Zone	1	0	0	
+RUB_AGARIABOTANICA	Agaria Botanica	1	0	0	
+AC_BACKROOMVELOCITY	Backroom Velocity	2	0	0	
+DIG_LOVELYLAB	Lovely Lab Zone	1	0	0	
+CERVID_HALLWAYS	Hallways Zone	0	1	0	
+RR_QUARTZQUADRANT	Quartz Quadrant Zone	2	0	0	
+PZZ_CAESARCOLISEUM	Caesar Coliseum Zone	1	0	0	
+PP_AZUREGARDEN	Azure Garden Zone	3	1	0	
+RR_CARNIVALNIGHT	Carnival Night Zone	1	0	0	
+DIG_BURNINGBONE	Burning Bone Zone	2	0	0	
+SP_JADEGARTEN	Conduit Garden Zone	2	0	0	
+KP_WHISPERINGLAKE	Whispering Lake Zone	3	0	0	
+RR_TESTTRACK	Test Track Zone	4	0	0	
 RR_HARDBOILEDSTADIUM	Hard-Boiled Stadium Zone	1	0	0	
-KP_SUNSETARCHIPELAGO	Sunset Archipelago Zone	1	0	0	
+RLQ_CENTRALCITY	Central City	2	0	0	
 RR_NEONRESORT	Neon Resort Zone	1	0	0	
 EPIC_NIGHTLITWOODSZONE	Nightlit Woods Zone	2	0	0	
 DRTR_SUNKENREMNANT	Sunken Remnant Zone	1	0	0	
-RR_VANTABLACKVIOLET	Vantablack Violet Zone	1	0	0	
-YTC_CHARTREUSE_WOODS	Chartreuse Woods Zone	2	0	0	
-RLQ_CENTRALCITY	Central City	2	0	0	
+DR_BADGERCOMINES	Badger Co Mines Zone	1	0	0	
+ATL_MC_MEGACASINOPARADISE	Mega Casino Paradise Zone	2	0	0	
+KP_DAWNSTARGARDEN	Dawnstar Garden Zone	1	0	0	
 RR_MEGAFLYINGBATTERY	Mega Flying Battery Zone	2	0	0	
-PZZ_CAESARCOLISEUM	Caesar Coliseum Zone	1	0	0	
-RR_RESORTISLAND	Resort Island Zone	2	0	0	
-PP_AZUREGARDEN	Azure Garden Zone	3	1	0	
+RR_DARKFORTRESS	Dark Fortress Zone	1	0	0	
+RR_RAMPPARK	Ramp Park Zone	1	0	0	
+RR_DIMENSIONDISASTER	Dimension Disaster Zone	2	0	0	
 GACK_AEROPOLIS	Aeropolis	1	0	0	
 RR_WAVECRASHDIMENSION	Wavecrash Dimension 1	1	0	0	
 CUB_SAPPHIREMOUNTAIN	Sapphire Mountain	1	0	0	
-ATL_MC_MEGACASINONIGHT	Mega Casino Night Zone	2	0	0	
-PP_SUS	Rampart Ruins Zone	5	0	0	
-PP_PORTAURORA	Port Aurora Zone	2	0	0	
-RR_JOYPOLIS	Joypolis Zone	1	0	0	
-SP_JADEGARTEN	Conduit Garden Zone	1	0	0	
-RR_STARLIGHT	Star Light Zone	3	0	0	
-KNC_DEMOCRACY	Calypso City	1	0	0	
-RR_WORLD1MAP	World 1 Map	1	0	0	
-LAS_MIDNIGHTBAY	Midnight Bay Streets	2	0	0	
-FP1_LUMINIUM	Luminium Sphere	1	0	0	
-RR_AURORAATOLL	Aurora Atoll Zone	2	1	0	
-RR_DARKFORTRESS	Dark Fortress Zone	1	0	0	
 HYOF_MEGANARAPARK	Mega Nara Park	2	1	0	
-RR_LUCIDPASS	Lucid Pass Zone	1	0	0	
-RR_LAKEMARGORITE	Lake Margorite Zone	1	0	0	
-RR_SUNSPLASHEDGETAWAY	Sunsplashed Getaway Zone	1	0	0	
-RR_COLLISIONCHAOS	Collision Chaos Zone	1	0	0	
-RR_EMERALDHILL	Emerald Hill Zone	2	0	0	
-RR_AVANTGARDEN	Avant Garden Zone	1	0	0	
-ARC_BREEZYVILLAGE	Breezy Village	1	0	0	
-ATL_MC_MEGATUBELECTRIC	Mega Tubelectric	1	0	0	
+PP_SUS	Rampart Ruins Zone	5	0	0	
+RR_DIAMONDDUST	Diamond Dust Zone	1	0	0	
+RR_JOYPOLIS	Joypolis Zone	1	0	0	
+SUPERMETAL_STARSLALOM	Star Slalom	1	0	0	
+RR_LEAFSTORM	Leaf Storm Zone	1	0	0	
+KNC_DEMOCRACY	Calypso City	1	0	0	
+PP_BANSHEEBOARDWALK	Banshee Boardwalk	3	0	0	
 RR_NOVASHORE	Nova Shore Zone	2	0	0	
-SP_MEGAPOLIS	MegaPolis	1	0	0	
+YTC_CHARTREUSE_WOODS	Chartreuse Woods Zone	3	0	0	
+RR_AURORAATOLL	Aurora Atoll Zone	2	1	0	
+PZZ_NOISETVSTUDIO	Noise TV Studio	2	0	0	
+RR_AVANTGARDEN	Avant Garden Zone	1	0	0	
+RR_LUCIDPASS	Lucid Pass Zone	1	0	0	
+RR_AQUEDUCTCRYSTAL	Aqueduct Crystal Zone	1	0	0	
+RR_SUNSPLASHEDGETAWAY	Sunsplashed Getaway Zone	1	0	0	
+RR_STARLIGHT	Star Light Zone	3	0	0	
+RR_EMERALDHILL	Emerald Hill Zone	2	0	0	
+LAS_MIDNIGHTBAY	Midnight Bay Streets	2	0	0	
+ARC_BREEZYVILLAGE	Breezy Village	1	0	0	
+RR_UMBRELLARUSHWINDS	Umbrella Rushwinds Zone	1	0	0	
+GACK_PROGRAMSHUTDOWN	Program Shutdown Zone	2	0	0	
+RR_RESORTISLAND	Resort Island Zone	2	0	0	
 PP_MOUNTAINHIGHWAY	Celestia Highway Zone	12	2	2	
-PP_CLOUDCASCADE	Cloud Cascade Zone	6	0	0	
-RR_MYSTERYGATE	Mystery Gate Zone	1	0	0	
-RR_SPEEDHIGHWAY	Speed Highway	3	0	0	
+RR_TRAPTOWER	Trap Tower	1	0	0	
+RR_VANTABLACKVIOLET	Vantablack Violet Zone	1	0	0	
+RR_COLLISIONCHAOS	Collision Chaos Zone	1	0	0	
 DRTR_KODACHROMEPALACE	Kodachrome Palace Zone	1	0	0	
 RR_HOTSHELTER	Hot Shelter	2	0	0	
 RR_GREENHILLS	Green Hills Zone	1	0	0	
-RR_RAMPPARK	Ramp Park Zone	1	0	0	
-RR_FINALFALL	Final Fall Zone	1	0	0	
-DR_BADGERCOMINES	Badger Co Mines Zone	1	0	0	
-TP_GBALUIGICIRCUIT	GBA Luigi Circuit	1	0	0	
+RR_SONICSPEEDWAY	Sonic Speedway Zone	2	0	0	
+RR_MEGAAQUALAKE	Mega Aqua Lake Zone	0	1	0	
+ATL_MC_MEGATUBELECTRIC	Mega Tubelectric	1	0	0	
+SP_MEGAPOLIS	MegaPolis	1	0	0	
 AC_STARDRIFTERCOURSE	Star Drifter Course	2	0	0	
-CRVD_HIGHTOP	High Top Zone	2	0	0	
-KP_WHISPERINGLAKE	Whispering Lake Zone	3	0	0	
+RR_BALLOONPARK	Balloon Park Zone	2	0	0	
+RR_SPEEDHIGHWAY	Speed Highway	3	0	0	
 SBS_FLOODAREA	Flood Area	1	0	0	
 RR_SUNSETHILL	Sunset Hill Zone	1	0	0	
-RR_BALLOONPARK	Balloon Park Zone	2	0	0	
-FU8_NEWNEOCITY	New Neocity Zone	3	0	0	
-RR_TAILSLAB	Tails' Lab	1	0	0	
-RR_PRESSGARDEN	Press Garden Zone	2	0	0	
-RR_PALMTREEPANIC	Palmtree Panic Zone	1	0	0	
-HAYA_PARTYPHASETAKE2	Party Phase Zone	3	0	0	
-RR_MOTOBUGMOTORWAY	Motobug Motorway Zone	1	0	0	
 ATL_MC_MEGAOCEANBASE	Mega Ocean Base Zone	1	0	0	
+FU8_NEWNEOCITY	New Neocity Zone	3	0	0	
+RR_MOTOBUGMOTORWAY	Motobug Motorway Zone	1	0	0	
+RR_PRESSGARDEN	Press Garden Zone	2	0	0	
+RR_AUTUMNRING	Autumn Ring Zone	1	0	0	
+HAYA_PARTYPHASETAKE2	Party Phase Zone	3	0	0	
+YTC_BOULDERSTONEALPINES	Boulderstone Alpines Zone	2	0	0	
+KP_JADEGARDEN1	Jade Garden Zone 1	1	0	0	
 CUB_STARMINESPEEDWAY	Starmine Speedway	2	0	0	
