@@ -1,163 +1,192 @@
 ID	Name	Play Count	Usage	Color Usage
-stcsally	Sally Acorn	1	1	PumpkinPie:1	
-sans	Sans	34	3	Plum A:1|Mantle:2|Midnight:3|Dawn:1|Default:6|Galaxy A:4|Sapphire A:2|Orange A:1|Black A:7|Black:6|Snail:1	
+arzedeu	Arzedeu	18	2	Ice A:1|Swamp:1|Default:3|Bronze A:13	
+sans	Sans	35	4	Plum A:1|Mantle:2|Midnight:3|Tangerine:1|Dawn:1|Default:6|Galaxy A:4|Sapphire A:2|Orange A:1|Black A:7|Black:6|Snail:1	
+knuckles	Knuckles	16	2	Default:12|Teal:4	
 furless	Furless	1	1	Copper:1	
 diggle	Diggle	26	2	Black:9|Ruby:17	
-surge	Surge	14	3	Ocean A:5|Default:9	
-carol	Carol	22	3	Default:22	
+bean	Bean	127	2	Teal:125|Harlequin:2	
+carol	Carol	32	3	Default:32	
 dingodiletfb	Dingodile	22	1	Default:21|Cerulean:1	
 gunvolt	Gunvolt	1	1	Mustard:1	
-zazz	Zazz	79	1	Foundation A:7|Default:72	
+zazz	Zazz	103	1	Foundation A:7|Default:96	
 pulseman	Pulseman	23	2	Default:8|Teal:15	
+jackfrost	Jack Frost	4	1	Default:4	
+darkpit	Dark Pit	7	2	Swamp:1|Default:6	
 nights	NiGHTS	13	1	Teal:13	
-alolanraichu	Raichu (Alolan)	19	2	Black:17|Camouflage:2	
-iclyn	Iclyn	6	2	Default:5|Jawz:1	
-papyrus	Papyrus	3	3	Daybreak A:1|Black:1|Red:1	
-blakethetamaraw	Blake	20	2	Jet:1|Aquamarine:19	
-shadow	Shadow	3	2	Default:2|Black:1	
-draco	Draco	4	3	RoughRacer:1|Turquoise:1|Default:2	
-ep_flare	Flare	64	1	Sepia:64	
-astrobot	Astro	2	2	Turquoise:1|Default:1	
+alolanraichu	Raichu (Alolan)	30	2	Black:28|Camouflage:2	
+iclyn	Iclyn	7	2	Jawz:1|Default:5|Cyan:1	
+bryn	Bryn	2	1	Default:2	
+thebrickster	The Brickster	26	5	Silver A:1|Ruby:6|Default:19	
+fennekun	Fennec Fox	8	2	Sapphire A:5|Default:1|Sapphire:2	
+shadow	Shadow	29	3	Default:20|Black:9	
+draco	Draco	5	4	RoughRacer:1|Sakura:1|Turquoise:1|Default:2	
+kou	Kou	37	4	Scarlet:11|Default:21|Copper:1|Purple:4	
+astrobot	Astro	3	3	Turquoise:1|Default:2	
+rambley	Rambley Raccoon	7	1	Default:7	
 shahra	Shahra	5	1	Default:5	
-plok	Plok	1	1	Turquoise:1	
-holly	holly	94	3	Aquamarine A:1|Default:91|Turquoise:2	
+plok	Plok	6	2	Turquoise:1|Default:5	
+doom	Doomguy	2	1	Default:2	
 tailsdoll	Tails Doll	4	1	Orange A:1|Freezer's Sunset:3	
-bobbobowski	Bob Bobowski	56	1	Jet A:26|Default:30	
-skip	Skip	8	1	Tangerine:8	
-zeana	Zeana	19	4	Scarlet:2|Mushroomy:14|Default:2|Humanity:1	
-lancer	Lancer	23	4	Aquamarine A:1|Skunk:16|Scarlet:4|Ultramarine:2	
-tikal	Tikal	27	1	Default:27	
-alpha	Alpha	11	1	Default:11	
-heavymagician	Heavy Magician	37	3	Yellow:11|Silver:18|Aqua A:8	
-yarnyoshi	Yarn Yoshi	1	1	Default:1	
-mimic	Mimic	10	2	Harlequin:7|Ocean A:2|Crismon A:1	
+bobbobowski	Bob Bobowski	94	1	Jet A:26|Default:52|Couldy A:16	
+vvmods_vee	Vee	15	2	Default:6|Swamp:9	
+skip	Skip	17	3	Default:9|Tangerine:8	
+sebastian_skin	Sebastian	158	1	Default:147|Purple:11	
+lancer	Lancer	47	5	Aquamarine A:1|Default:24|Ultramarine:2|Scarlet:4|Skunk:16	
+piroli	Piroli	9	1	Sapphire:5|Ultramarine:4	
+alpha	Alpha	28	1	Default:28	
+heavymagician	Heavy Magician	38	4	Default:1|Yellow:11|Silver:18|Aqua A:8	
+johnny	Johnny	5	1	Default:1|Black:4	
+yarnyoshi	Yarn Yoshi	2	1	Default:2	
+mimic	Mimic	17	3	Dusk:7|Harlequin:7|Ocean A:2|Crismon A:1	
+arle	Arle	29	2	Default:1|Midnight:4|Purple:1|Nova:17|Cobalt A:6	
 mail	Mail	30	5	Ruby A:1|Pigeon:7|Marine A:1|Scarlet:13|Teal:1|Default:5|Purple:2	
 asha	Asha	3	1	Default:3	
 jennyxj9	Jenny Wakeman	9	2	Default:1|Red:8	
-roony	Roony	1	1	Turquoise A:1	
-jewel	Jewel	6	3	Default:5|Mint:1	
+wonderboy	Wonder Boy	21	2	Pinetree:20|Taffy:1	
+jewel	Jewel	10	3	Default:9|Mint:1	
 bomb	Bomb	1	1	Black:1	
-feveramitie	Amitie	11	2	Raspberry:10|Ketchup:1	
-hikaru_hoshi	Hikaru Hoshi	40	2	Emerald A:7|Default:6|Master A:12|Emerald:14|Plague:1	
-buizel	Buizel	13	3	Ketchup:1|Default:11|Sky A:1	
-homersimpson	Homer Simpson	15	3	Default:12|Garden:3	
-itembox	Item Box	33	2	Cornflower A:4|Default:17|Goldenrod A:12	
-unclegrandpa	Uncle Grandpa	5	2	Midnight:3|Island A:1|Daybreak A:1	
-lanolin	Lanolin	51	3	Noble A:2|Default:16|Artic A:1|Red A:25|Black:6|Blue A:1	
-jet	Jet	17	2	Mushroomy:3|Default:8|Master A:2|RoughRacer:3|Sepia:1	
-trip	Trip	53	4	Sunset A:1|Fancy A:46|Default:2|Yogurt A:4	
-eggman	Dr. Eggman	21	2	Default:21	
-geno	Geno	14	3	Default:1|Cyan:3|Artic A:2|Midnight:3|Sapphire A:5	
-fav	Fav	1	1	Turquoise:1	
-latias	Latias	82	3	Jawz:2|Lilac:5|Black:73|WildSun:2	
-jirachi	Jirachi	9	2	Black:3|Default:6	
-jason	Jason	1	1	Violet:1	
-riva	Riva	1	1	Algae:1	
-whisper	Whisper	2	1	Crystal:1|Sapphire A:1	
-flarewf	Flare	332	2	Dusk:331|Sakura:1	
-aigis	Aigis	1	1	Default:1	
-caterkiller	Caterkiller	3	1	Lavender A:3	
-amity	Amity	83	3	BakersApron:1|Teal:1|Default:81	
-fleur	Fleur	142	3	Default:137|Sunslam:1|Tea:1|Teal:3	
-banjokazooie	Banjo-Kazooie	2	2	Default:1|Orange A:1	
-cookie	Cookie	143	1	Black:143	
-laharl	Laharl	21	2	Moreno:15|Default:4|Byzantium:2	
-veph	Veph	63	2	Lime:16|Royal:1|Skunk:1|Default:44|Cherry A:1	
-gokudrip	Goku Drip	21	3	Bronze:1|Black A:4|Turquoise:14|Bone A:2	
-saicha	Saicha	21	2	Default:18|Crimson:3	
-cacee	Cacee	4	3	Turquoise:1|Default:2|Black:1	
-rouge	Rouge	98	3	Default:28|Toxic:70	
-chuchu	ChuChu	95	3	Black:12|Swamp:1|Red:82	
-chaos	Chaos Zero	1	1	Ruby:1	
-eggmannega	Eggman Nega	1	1	Default:1	
-sackboy	Sackboy	3	1	Brow A:3	
-gongon	GonGon	5	1	Default:5	
-sakura	Sakura Shinguji	19	2	Skunk:5|Peach:14	
-kasaneteto	Kasane Teto	37	6	Ruby:3|Default:15|Plague:2|Sakura:13|White:4	
-fang	Fang	3	2	Default:3	
-riderssonic	Sonic (Riders)	76	13	Rosy A:1|Jawz:8|Topaz A:1|Midnight:1|Plague:2|Black:1|Sapphire A:13|Gold:8|Default:17|Gold A:19|Red:5	
-bubsytv	Bubsy	32	3	Orange A:30|Nickel:1|Dream A:1	
-ringoando	Ringo Ando	23	1	Default:23	
-donkeykong	Donkey Kong	9	1	Lemon A:3|Goldenrod A:6	
-dracelia	Dracelia	67	1	Cream:51|Rosebush A:16	
-pm_mary	Mary	2	1	Thistle:1|Violet:1	
-orville	Orville	1	1	Default:1	
-derp	The Derp	4	3	Black:3|Default:1	
-abby	Abby	1	1	Pigeon:1	
-gutbuster	Gutbuster	1	1	Scarlet:1	
-vector	Vector	2	1	Default:2	
-honey	Honey	35	2	Nickel:1|Default:4|Carbon A:4|Scarlet:22|Fancy A:4	
-sideoffries	Side Of Fries	5	1	Black:5	
-gemma	Gemma	1	1	Pigeon:1	
-milla	Milla	13	4	Scarlet:3|Default:8|Black:1|Orange:1	
-ratgod	Rat God	24	3	Jawz:8|Default:16	
-aurelia	Aurelia	193	3	Teal:1|Default:181|Copper A:11	
-bino	Bino	1	1	Sakura:1	
-nyamimi	Nyami and Mimi	52	2	Navy:2|Peridot A:17|Default:18|Yellow A:15	
-sledge	Sledge	9	2	Dream:3|Copper:6	
-cream	Cream	8	2	Default:2|White:6	
-joseph	Joseph	1	1	Moreno:1	
-axelgear	Axel Gear	9	1	Black:9	
-blaze	Blaze	3	3	Default:2|Marine A:1	
-ryujin_hoshi	Ryujin Hoshi	16	2	Default:16	
-headdy	Headdy	27	1	Yellow A:4|Default:23	
+feveramitie	Amitie	21	3	Midnight:10|Ketchup:1|Raspberry:10	
 cole_cassidy	Cole Cassidy	1	1	Black:1	
-prick	Prick	12	2	Default:6|Lemon A:6	
-metalknuckles	Metal Knuckles	2	1	Scarlet:2	
-cinna	Cinna	1	1	Daybreak A:1	
-gatti	Gatti	3	2	Ice A:1|Fever:2	
-sebastian_skin	Sebastian	118	1	Default:107|Purple:11	
+buizel	Buizel	42	3	Ketchup:1|Default:40|Sky A:1	
+homersimpson	Homer Simpson	23	5	Garden:3|Default:18|Yellow A:2	
+itembox	Item Box	51	3	Cornflower A:4|Default:17|Goldenrod A:12|Gold A:5|Tangerine:13	
+unclegrandpa	Uncle Grandpa	9	3	Daybreak A:1|Midnight:3|Sapphire A:1|Artic A:3|Island A:1	
+lanolin	Lanolin	51	3	Noble A:2|Default:16|Artic A:1|Red A:25|Black:6|Blue A:1	
+jet	Jet	18	3	Mushroomy:3|Default:8|Master A:2|Violet:1|RoughRacer:3|Sepia:1	
+trip	Trip	61	6	Sunset A:1|Fancy A:46|Default:10|Yogurt A:4	
+eggman	Dr. Eggman	44	3	Default:44	
+geno	Geno	22	4	Default:1|Cyan:3|Midnight:8|Sapphire A:7|Artic A:2|Crismon A:1	
+fav	Fav	1	1	Turquoise:1	
+latias	Latias	101	3	Jawz:2|Lilac:5|Black:92|WildSun:2	
+jirachi	Jirachi	12	2	Black:6|Default:6	
+jason	Jason	4	2	Default:3|Violet:1	
+riva	Riva	1	1	Algae:1	
+whisper	Whisper	4	2	Crystal:1|Taffy:2|Sapphire A:1	
+flarewf	Flare	649	3	Dusk:642|Sakura:7	
+aigis	Aigis	5	2	Default:5	
+caterkiller	Caterkiller	3	1	Lavender A:3	
+amity	Amity	111	3	BakersApron:1|Teal:1|Default:109	
+fleur	Fleur	157	3	Tea:1|Teal:3|Default:152|Sunslam:1	
+banjokazooie	Banjo-Kazooie	4	3	Orange A:1|Default:2|Midnight:1	
+cookie	Cookie	203	1	Couldy A:16|Blossom:9|Black:177|Carbon A:1	
+laharl	Laharl	21	2	Moreno:15|Default:4|Byzantium:2	
+veph	Veph	77	3	Lime:16|Ultramarine:14|Royal:1|Skunk:1|Default:44|Cherry A:1	
+athena_asamiya	Athena	30	3	Midnight:10|Humanity:7|Turquoise:11|Carbon A:2	
+gokudrip	Goku Drip	37	4	Default:11|Bronze:1|Midnight:3|Black A:6|Bone A:2|Turquoise:14	
+saicha	Saicha	31	2	Default:28|Crimson:3	
+cacee	Cacee	8	3	Turquoise:1|Default:2|Black:5	
+rouge	Rouge	114	3	Default:44|Toxic:70	
+chuchu	ChuChu	152	3	Black:12|Swamp:1|Red:139	
+chaos	Chaos Zero	1	1	Ruby:1	
+eggmannega	Eggman Nega	26	3	Default:26	
+sackboy	Sackboy	4	2	Byzantium:1|Brow A:3	
+gongon	GonGon	8	1	Default:8	
+sakura	Sakura Shinguji	19	2	Skunk:5|Peach:14	
+kasaneteto	Kasane Teto	60	7	Crystal:2|Sakura:13|Pink A:9|Mint:2|Plague:2|Default:20|Ruby:3|Aquamarine:5|White:4	
+fang	Fang	8	3	Purple:3|Default:3|Sepia:2	
+frank	Frank	3	1	Forest A:1|Galaxy A:1|Default:1	
+zeana	Zeana	94	5	Mushroomy:14|Default:2|Humanity:1|Scarlet:2|Blueberry:75	
+papyrus	Papyrus	25	5	Black:1|Daybreak A:1|Red:1|Default:21|Tangerine:1	
+dust_and_ashes	Dust And Ashes	5	1	Default:5	
+big	Big	3	1	Default:3	
+bubsytv	Bubsy	32	3	Orange A:30|Nickel:1|Dream A:1	
+ringoando	Ringo Ando	24	2	Default:24	
+aiai	AiAi	9	2	Fuchsia:4|Default:5	
+dracelia	Dracelia	181	2	Jet A:1|Cream:65|Lime A:4|Rosebush A:111	
+pm_mary	Mary	2	1	Thistle:1|Violet:1	
+narlok	Narlok	1	1	Turquoise:1	
+orville	Orville	1	1	Default:1	
+prick	Prick	16	2	Default:10|Lemon A:6	
+bino	Bino	11	3	Harlequin:4|Sakura:1|Lime A:2|Ultramarine:4	
+tails	Tails	43	6	Jet:1|Black:2|Cinnamon:1|Rosewood:16|Teal:5|Default:12|Emerald:6	
 emerl	Emerl	5	1	Fairy:5	
-mechasonic	Mecha Sonic	9	1	Lemon A:9	
-tasquemanager	Tasque Manager	73	4	Sakura:35|Sapphire:16|Crismon A:10|Magenta:1|Lilac:9|Blossom:2	
-maria	Maria	6	1	Aquamarine:2|Default:4	
-freyadra	Freya	48	2	Pomegranate:17|Black:2|Dusk:29	
+gamma	E-102 Gamma	78	5	Black:1|Cyan:37|Lemon A:13|Bloopy:3|Default:16|Goldenrod A:8	
+derp	The Derp	5	4	Black:3|Default:2	
+blaze	Blaze	3	3	Default:2|Marine A:1	
+gutbuster	Gutbuster	7	2	Scarlet:1|Sunslam:6	
+dotty	Dotty	6	2	Default:5|Lime A:1	
+honey	Honey	90	3	Nickel:1|Default:11|Carbon A:4|Scarlet:22|Fancy A:4|Blueberry:48	
+arms	Arms	1	1	Default:1	
+sideoffries	Side Of Fries	5	1	Black:5	
+aurelia_skwt	Aurelia	150	3	Default:84|Crimson:52|Lemon A:4|Taffy:5|CandyFloss:4|Blossom:1	
+rappy	Rappy	23	4	Taffy:12|Teal:1|Default:6|Blossom:4	
+holly	holly	127	3	Lemon A:1|Aquamarine A:1|Turquoise:2|Default:123	
+gemma	Gemma	1	1	Pigeon:1	
+milla	Milla	29	4	Scarlet:3|Orange:1|Default:24|Black:1	
+ratgod	Rat God	35	4	Jawz:8|Default:19|Mint:8	
+aurelia	Aurelia	285	4	Copper A:11|Teal:1|Default:265|Goldenrod A:8	
+smwyoshi	Yoshi	48	6	Rose:7|Green A:3|Goldenrod A:9|Teal:23|Cerulean A:1|Turquoise:3|Daybreak A:2	
+sonic	Sonic	18	2	Default:18	
+blakethetamaraw	Blake	20	2	Jet:1|Aquamarine:19	
+angel_kof	Angel	7	1	Default:7	
+nyamimi	Nyami and Mimi	104	4	Navy:2|Peridot A:17|Yellow A:15|Sapphire:34|Moonset:4|Default:32	
+woot	Woot	5	1	Jet A:3|Red A:1|Default:1	
+sledge	Sledge	12	3	Default:3|Copper:6|Dream:3	
+metalsonic	Metal Sonic	33	3	Default:4|Sapphire:29	
+chao	Chao	12	2	Nova:6|Teal:6	
+real_bino	Real Bino	30	1	Cerulean A:14|Default:11|Aqua A:5	
+hikaru_hoshi	Hikaru Hoshi	46	2	Emerald A:7|Default:6|Master A:18|Emerald:14|Plague:1	
+axelgear	Axel Gear	9	1	Black:9	
+madmewmew	Mad Mew Mew	5	3	Black:2|Turquoise:2|Tangerine:1	
+ryujin_hoshi	Ryujin Hoshi	22	2	Default:22	
+headdy	Headdy	27	1	Yellow A:4|Default:23	
+lilac	Lilac	2	1	Default:2	
 amy	Amy	8	2	Black:4|Pink:4	
-aosthrobotnik	AoStH Robotnik	40	3	Black:6|Salmon A:2|Default:28|Crismon A:4	
-rappy	Rappy	18	3	Taffy:12|Teal:1|Default:1|Blossom:4	
-billyh	Billy Hatcher	2	1	Default:2	
-motobug	Motobug	17	2	Default:10|Ultramarine:7	
-chao	Chao	6	1	Nova:6	
-nahida	Nahida	58	3	Default:8|Moonset:50	
-cluckoid	Cluckoid	22	1	Dusk:22	
-heavy	Heavy	12	2	Black:2|Cyan:10	
-ray	Ray	2	2	Black:1|Pastel:1	
-jilldozer	Jill	1	1	Pink A:1	
-shantae	Shantae	6	3	Default:4|Dusk:2	
-metalsonic	Metal Sonic	32	2	Default:3|Sapphire:29	
-bikeshadow	Shadow	8	5	Plague:1|Red A:1|Default:4|Black:2	
-kinopio	Toad	1	1	Default:1	
-tails	Tails	24	3	Teal:5|Rosewood:16|Black:2|Cinnamon:1	
+riderssonic	Sonic (Riders)	92	17	Rosy A:1|Midnight:3|Jawz:8|Default:27|Topaz A:1|Ultramarine:1|Plague:2|Black:2|Gold:8|Artic A:2|Sapphire A:13|Gold A:19|Red:5	
+cinna	Cinna	1	1	Daybreak A:1	
+gatti	Gatti	8	3	Ice A:1|Fever:2|Default:5	
+stcsally	Sally Acorn	1	1	PumpkinPie:1	
+shantae	Shantae	13	3	Default:11|Dusk:2	
+mechasonic	Mecha Sonic	14	2	Lemon A:9|Swamp:5	
+tasquemanager	Tasque Manager	123	6	Sakura:62|Default:21|Sapphire:16|Crismon A:10|Magenta:1|Lilac:9|Blossom:4	
+maria	Maria	6	1	Aquamarine:2|Default:4	
+freyadra	Freya	54	3	Pomegranate:17|Aqua A:6|Black:2|Dusk:29	
+sevii	Sevii	53	1	Default:53	
+aosthrobotnik	AoStH Robotnik	60	3	Salmon A:2|Default:46|Midnight:1|Red A:1|Black:6|Crismon A:4	
+metalknuckles	Metal Knuckles	2	1	Scarlet:2	
 aosthscratch	Scratch	10	4	Black:3|Teal:1|Default:1|Skunk:5	
-queen_dr	Queen	19	1	Default:19	
+motobug	Motobug	63	4	Blueberry:6|Purple:15|Default:24|Ultramarine:18	
+cluckoid	Cluckoid	30	1	Dusk:30	
+charmy	Charmy	1	1	Default:1	
+billyh	Billy Hatcher	6	1	Default:6	
+heavy	Heavy	16	3	Teal:4|Black:2|Cyan:10	
+ray	Ray	2	2	Black:1|Pastel:1	
 bark	Bark	6	1	Swamp:6	
-meggy	Meggy Spletzer	14	1	Turtle:14	
-bean	Bean	100	2	Teal:98|Harlequin:2	
-huesitos	Dry Bones	21	2	Default:20|White:1	
-barry	Barry	4	1	Default:4	
-gum	Gum	4	1	Default:4	
-ceroba	Ceroba	46	3	Pepper A:1|Red A:2|Default:12|Fairy:31	
+metaltails	Metal Tails	2	1	Foundation A:2	
+gum	Gum	11	2	Default:11	
+ceroba	Ceroba	70	3	Pepper A:1|Red A:2|Default:36|Fairy:31	
+kinopio	Toad	1	1	Default:1	
 eunie	Eunie	25	2	Skunk:25	
-stocking	Stocking Anarchy	25	3	Default:9|Black:12|Gold:4	
-kou	Kou	37	4	Scarlet:11|Default:21|Copper:1|Purple:4	
-uprisingpit	Pit	4	2	Brown:1|Default:3	
+stocking	Stocking Anarchy	28	3	Default:12|Black:12|Gold:4	
+queen_dr	Queen	26	1	Default:26	
 shovelknight	Shovel Knight	4	1	Midnight:4	
-hexmaniac	Hex Maniac	3	1	Default:3	
+meggy	Meggy Spletzer	21	1	Turtle:14|Default:7	
+uprisingpit	Pit	13	3	Brown:1|Default:3|Swamp:9	
+huesitos	Dry Bones	25	3	Dusk:1|Lavender:3|Default:20|White:1	
+barry	Barry	4	1	Default:4	
+latch	Latch	5	2	Scarlet:1|WildSun:4	
+hexmaniac	Hex Maniac	10	2	Couldy A:1|Default:3|Cobalt A:6	
+redz	Redz	1	1	Cerulean A:1	
+bikeshadow	Shadow	8	5	Red A:1|Plague:1|Black:2|Default:4	
+pinecone	PINECONE	2	1	Default:2	
+zip	Zip	18	1	Default:18	
+surge	Surge	26	3	Ocean A:5|Aqua A:4|Default:9|Cyan:8	
+jilldozer	Jill	2	1	Pink A:1|Sapphire A:1	
 huggert	Huggert	1	1	Fuchsia:1	
 harry	Harry	1	1	Fever:1	
-pinecone	PINECONE	2	1	Default:2	
-metaltails	Metal Tails	2	1	Foundation A:2	
-latios	Latios	3	2	Black:2|Nova:1	
-sage	Sage	1	1	Default:1	
-thebrickster	The Brickster	12	3	Default:6|Ruby:6	
-wonderboy	Wonder Boy	21	2	Pinetree:20|Taffy:1	
-aiai	AiAi	4	1	Fuchsia:4	
-madmewmew	Mad Mew Mew	5	3	Black:2|Turquoise:2|Tangerine:1	
-narlok	Narlok	1	1	Turquoise:1	
-sevii	Sevii	41	1	Default:41	
-sonic	Sonic	3	1	Default:3	
+joseph	Joseph	1	1	Moreno:1	
+strom	strom	10	1	Default:10	
+latios	Latios	14	3	Nova:1|Black:5|Blue:8	
+sage	Sage	20	2	Default:1|White:19	
+yorha2b	Yorha 2B	2	1	Sepia:1|Grey:1	
+donkeykong	Donkey Kong	9	1	Lemon A:3|Goldenrod A:6	
+cream	Cream	13	3	Apricota A:1|Cream:1|Default:5|White:6	
+ep_flare	Flare	128	2	Default:6|Sepia:122	
+nahida	Nahida	99	4	Turquoise:6|Moonset:55|Default:31|Pink:7	
+tikal	Tikal	29	2	Default:29	
+roony	Roony	1	1	Turquoise A:1	
 yatterman-2	Yatterman-2	1	1	Default:1	
-gamma	E-102 Gamma	40	4	Black:1|Cyan:14|Lemon A:13|Bloopy:3|Default:1|Goldenrod A:8	
-smwyoshi	Yoshi	42	5	Rose:7|Daybreak A:2|Goldenrod A:9|Teal:20|Turquoise:3|Cerulean A:1	
+vector	Vector	2	1	Default:2	
+abby	Abby	16	2	Default:15|Pigeon:1	
 quileaf	Quileaf	1	1	Cerulean A:1	
 shell	Shell	1	1	Default:1	
